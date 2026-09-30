@@ -12,7 +12,8 @@ window.METRO_DATA = {
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/4367a7a3db6a10d3d70381fb09f209e8", caption: "五棵松站 列车进站", source: "bilibili" },
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/f960e5451bedb6f36d6fa29f67c79f1b", caption: "建国门站 列车停靠", source: "bilibili" },
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/9d2b9a250349411ecdc7433819ce68a2", caption: "西单站 列车停靠", source: "bilibili" },
-                { url: "https://commons.wikimedia.org/wiki/File:01_016_at_Tian%27anmen_West_(20210829185457).jpg#/media/File:01_016_at_Tian'anmen_West_(20210829185457).jpg", caption: "西单站 列车停靠", source: "bilibili" },
+        
+                { url: "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81DKZ4%E5%9E%8B%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BB%84#/media/File:01_016_at_Tian'anmen_West_(20210829185457).jpg", caption: "西单站 列车停靠", source: "维基百科" },
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/41297ab9f966476bc5b31e502396c809", caption: "苹果园站 站台列车", source: "bilibili" }
       ]
     },
