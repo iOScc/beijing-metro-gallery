@@ -13,7 +13,7 @@ window.METRO_DATA = {
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/f960e5451bedb6f36d6fa29f67c79f1b", caption: "建国门站 列车停靠", source: "bilibili" },
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/9d2b9a250349411ecdc7433819ce68a2", caption: "西单站 列车停靠", source: "bilibili" },
         
-                { url: "https://i0.hdslb.com/bfs/archive/aa5540cee9c45da4e08a74f478d2a0c3414bdd63.jpg", caption: "西单站 列车停靠", source: "百科" },
+                { url: "https://i0.hdslb.com/bfs/archive/aa5540cee9c45da4e08a74f478d2a0c3414bdd63.jpg", caption: "dkz4 即将退役", source: "百科" },
         { url: "https://agent.qianwen.com/service/4c35f58d-c33f-4b/41297ab9f966476bc5b31e502396c809", caption: "苹果园站 站台列车", source: "bilibili" }
       ]
     },
